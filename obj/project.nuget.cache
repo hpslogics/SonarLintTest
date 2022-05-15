@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KY7kWxglTDRGJ2BiPTQVkmBBmf0Efs+3Idla/j4sh3i9bIujmrEL4Y5+5Z1r+wmaWB1jXxERCJzypwQnL5gi6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harsingh4\\SonarLintTest\\SonarQubeTest\\SonarQubeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsingh4\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\harsingh4\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\harsingh4\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\harsingh4\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\harsingh4\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\harsingh4\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
