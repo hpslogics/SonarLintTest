@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harsingh4\\SonarLintTest\\SonarQubeTest\\SonarQubeTest.csproj",
+      "projectUniqueName": "C:\\Users\\harsingh4\\Source\\Repos\\SonarLintTest\\SonarQubeTest.csproj",
       "projectName": "SonarQubeTest",
-      "projectPath": "C:\\Users\\harsingh4\\SonarLintTest\\SonarQubeTest\\SonarQubeTest.csproj",
+      "projectPath": "C:\\Users\\harsingh4\\Source\\Repos\\SonarLintTest\\SonarQubeTest.csproj",
       "packagesPath": "C:\\Users\\harsingh4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harsingh4\\SonarLintTest\\SonarQubeTest\\obj\\",
+      "outputPath": "C:\\Users\\harsingh4\\Source\\Repos\\SonarLintTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
