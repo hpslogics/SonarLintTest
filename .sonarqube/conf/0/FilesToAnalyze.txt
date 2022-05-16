@@ -1,0 +1,10 @@
+﻿C:\Users\harsingh4\Source\Repos\SonarLintTest\Controllers\WeatherForecastController.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\Program.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\Startup.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\WeatherForecast.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.AssemblyInfo.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harsingh4\Source\Repos\SonarLintTest\appsettings.Development.json
+C:\Users\harsingh4\Source\Repos\SonarLintTest\appsettings.json
+C:\Users\harsingh4\Source\Repos\SonarLintTest\Properties\launchSettings.json
