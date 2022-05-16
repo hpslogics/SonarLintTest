@@ -52,4 +52,5 @@ C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.dll
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.pdb
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.genruntimeconfig.cache
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\ref\SonarQubeTest.dll
-C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\ref\SonarQubeTest.dll
+C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.csproj.AssemblyReference.cache
+C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\refint\SonarQubeTest.dll

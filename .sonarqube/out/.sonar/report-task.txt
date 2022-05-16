@@ -2,5 +2,5 @@ projectKey=MyTestProject
 serverUrl=https://hpslogicssonarqube.azurewebsites.net
 serverVersion=9.4.0.54424
 dashboardUrl=https://hpslogicssonarqube.azurewebsites.net/dashboard?id=MyTestProject
-ceTaskId=AYDJZfWnUFEbZJ_wP7om
-ceTaskUrl=https://hpslogicssonarqube.azurewebsites.net/api/ce/task?id=AYDJZfWnUFEbZJ_wP7om
+ceTaskId=AYDLJQotUFEbZJ_wP7on
+ceTaskUrl=https://hpslogicssonarqube.azurewebsites.net/api/ce/task?id=AYDLJQotUFEbZJ_wP7on

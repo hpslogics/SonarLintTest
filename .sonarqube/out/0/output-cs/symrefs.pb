@@ -1,7 +1,7 @@
-’
+ž
 VC:\Users\harsingh4\Source\Repos\SonarLintTest\Controllers\WeatherForecastController.cs
- *! :1 J
-) 2"" #""- 6
+ *! :1 J2
+) 2"" #""- 6GG #GG- 6
 < C 
 
  (
@@ -9,7 +9,14 @@ VC:\Users\harsingh4\Source\Repos\SonarLintTest\Controllers\WeatherForecastContro
 
 , /
  !! """$ '
-1 6  , 1ª
+1 6  , 1
+
+**, 6
+
+,, (
+.. 22 77 GGH Q
+BB FF "GG$ '
+CC1 6EE, 1ª
 8C:\Users\harsingh4\Source\Repos\SonarLintTest\Program.cs
 
  
