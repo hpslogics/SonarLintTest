@@ -38,7 +38,6 @@ C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\Microsoft.OpenApi
 C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.csproj.AssemblyReference.cache
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.AssemblyInfoInputs.cache
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.AssemblyInfo.cs
@@ -50,7 +49,7 @@ C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\staticwebassets\S
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.RazorTargetAssemblyInfo.cache
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.csproj.CopyComplete
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.dll
-C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\refint\SonarQubeTest.dll
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.pdb
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\SonarQubeTest.genruntimeconfig.cache
 C:\Users\harsingh4\Source\Repos\SonarLintTest\obj\Debug\net5.0\ref\SonarQubeTest.dll
+C:\Users\harsingh4\Source\Repos\SonarLintTest\bin\Debug\net5.0\ref\SonarQubeTest.dll
